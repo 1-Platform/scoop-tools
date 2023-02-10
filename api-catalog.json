@@ -2,18 +2,18 @@
     "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/akhilmhdh/api-catalog/releases/download/v0.1.0/api-catalog_Windows_i386.zip",
+            "url": "https://github.com/1-Platform/api-catalog/releases/download/v0.1.0/api-catalog_Windows_i386.zip",
             "bin": [
-                "api-catalog.exe"
+                "apic.exe"
             ],
-            "hash": "9b6b2f85ec166fbed212dad4f590d34ebee78a9ec6b26df76e5f2efc5565463b"
+            "hash": "3a16e52955c9fc8f0b232a4c485d262243bd0996c015e088ab67bd70c4e48b54"
         },
         "64bit": {
-            "url": "https://github.com/akhilmhdh/api-catalog/releases/download/v0.1.0/api-catalog_Windows_x86_64.zip",
+            "url": "https://github.com/1-Platform/api-catalog/releases/download/v0.1.0/api-catalog_Windows_x86_64.zip",
             "bin": [
-                "api-catalog.exe"
+                "apic.exe"
             ],
-            "hash": "8849025e56d839a15da47d200d2fece42e8d6e9476d3b22c05e2df027c17b4d6"
+            "hash": "84540a0852cd3855edc027eddc2807b1ec3339012b5b9ffe27b3819ffbd6e2e4"
         }
     },
     "homepage": "https://github.com/1-platform/api-catalog",
