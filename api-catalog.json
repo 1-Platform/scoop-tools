@@ -6,14 +6,14 @@
             "bin": [
                 "apic.exe"
             ],
-            "hash": "3a16e52955c9fc8f0b232a4c485d262243bd0996c015e088ab67bd70c4e48b54"
+            "hash": "04288fcc7930d7da1fb36b9e3a4f63738c0fcf97110ba52905e22971e4ba0930"
         },
         "64bit": {
             "url": "https://github.com/1-Platform/api-catalog/releases/download/v0.1.0/api-catalog_Windows_x86_64.zip",
             "bin": [
                 "apic.exe"
             ],
-            "hash": "84540a0852cd3855edc027eddc2807b1ec3339012b5b9ffe27b3819ffbd6e2e4"
+            "hash": "b928b823281f60af6ab6a1b6e0f3c479c86f476c177341fcdbd3a2a5725e3d90"
         }
     },
     "homepage": "https://github.com/1-platform/api-catalog",
